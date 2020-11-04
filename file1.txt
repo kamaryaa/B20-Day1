@@ -5,3 +5,4 @@ we create a git repository on desktop called B20-Day1
 added a file called fiel1.txt
 detedcted the changes 
 we commited this changes into local reporsitory
+i am exploring 
