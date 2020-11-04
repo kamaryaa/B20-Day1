@@ -1,1 +1,10 @@
 this is the new file i added 
+
+
+create new file called file3.txt
+commit the change
+
+
+edit the content 
+
+edit the both file 
