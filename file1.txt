@@ -6,3 +6,5 @@ added a file called fiel1.txt
 detedcted the changes 
 we commited this changes into local reporsitory
 i am exploring 
+
+i am making some changes for file1.txt under B20-Day1 Repository
