@@ -3,3 +3,5 @@ This is a day1 class Github
 we create a git repository on desktop called B20-Day1
 
 added a file called fiel1.txt
+detedcted the changes 
+we commited this changes into local reporsitory
